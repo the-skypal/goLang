@@ -28,4 +28,6 @@ func main() {
 	} else {
 		fmt.Printf("%s is not available\n", productName)
 	}
+
+	fmt.Println("DONE WITH BUILD")
 }
